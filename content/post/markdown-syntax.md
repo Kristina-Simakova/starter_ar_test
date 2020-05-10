@@ -2,7 +2,7 @@
 aliases = ["migrate-from-jekyl"]
 author = "Kristina Simakova"
 categories = ["themes", "syntax"]
-date = 2019-03-11T00:00:00Z
+date = 2020-05-08T22:00:00Z
 description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
 feature_image = "/images/francesco-ungaro-GX81x7KTfIw-unsplash.jpg"
 series = ["Themes Guide"]
